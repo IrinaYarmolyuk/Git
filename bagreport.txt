@@ -9,4 +9,4 @@ ID : 1
     Severity : Minor
     priority : High
     Author : Irina Yarmolyuk
-    Status : Open
+    Status : Open.
